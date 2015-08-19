@@ -21,8 +21,6 @@ namespace DragAndDrop_GenericHandler
                 foreach (string fileName in files)
                 {
                     HttpPostedFile file = files[fileName];
-                    //string fileName = file.FileName;
-                    //fileName = context.Server.MapPath("~/uploads/" + fileName);
                     filePath = "D:\\DragAndDrop\\" + fileName;
                     file.SaveAs(filePath);
                     flag = 1;
