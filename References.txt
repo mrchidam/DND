@@ -1,0 +1,5 @@
+Google Search
+send dataTransfer.file object through ajax and receive in .NET
+
+Link
+http://devdays.com/2014/03/27/asp-net-uploading-files-using-drag-and-drop-clientserver/
