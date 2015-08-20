@@ -5,9 +5,9 @@ using System.Web;
 
 namespace DragAndDrop_GenericHandler
 {
-    <summary>
-    This is the Server Side Program which receives a file from the Client and Save it in the Specified filePath.
-    </summary>
+    // <summary>
+    // This is the Server Side Program which receives a file from the Client and Save it in the Specified filePath.
+    // </summary>
     public class FileHandler : IHttpHandler
     {
 
